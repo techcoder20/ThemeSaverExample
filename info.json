@@ -1,9 +1,9 @@
 {
-  'name': 'riceName',
-  'gtkTheme': 'gtkThemeName',
-  'iconTheme': 'iconThemeName',
-  'shell': 'shellName',
-  'desktopEnvironment': 'desktopEnvironmentName',
-  'windowManager': 'windowMangerName'
-  
+    "name": "riceName",
+    "gtkTheme": "gtkThemeName",
+    "iconTheme": "iconThemeName",
+    "shell": "shellName",
+    "desktopEnvironment": "desktopEnvironmentName",
+    "windowManager": "windowMangerName"
 }
+  
