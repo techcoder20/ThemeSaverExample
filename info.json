@@ -1,9 +1,9 @@
 {
-    "name": "riceName",
-    "gtkTheme": "gtkThemeName",
-    "iconTheme": "iconThemeName",
+    "name": "Qogir KDE",
+    "gtkTheme": "Adwaita",
+    "iconTheme": "Qogir-dark",
     "shell": "shellName",
-    "desktopEnvironment": "desktopEnvironmentName",
-    "windowManager": "windowMangerName"
+    "desktopEnvironment": "kde",
+    "windowManager": "kwin"
 }
   
