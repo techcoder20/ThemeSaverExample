@@ -1,6 +1,6 @@
 {
-  'name': 'riceName'
-  'gtkTheme': 'gtkThemeName'
+  'name': 'riceName',
+  'gtkTheme': 'gtkThemeName',
   'iconTheme': 'iconThemeName',
   'shell': 'shellName',
   'desktopEnvironment': 'desktopEnvironmentName',
