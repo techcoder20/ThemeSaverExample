@@ -1,9 +1,8 @@
 {
-    "name": "Qogir KDE",
-    "gtkTheme": "Adwaita",
-    "iconTheme": "Qogir-dark",
-    "shell": "shellName",
-    "desktopEnvironment": "kde",
-    "windowManager": "kwin"
+    "name": "gruvbox",
+    "gtkTheme": "gruvbox-gtk",
+    "iconTheme": "Tela-circle-dark",
+    "shell": "bash",
+    "desktopEnvironment": "xfce",
+    "windowManager": "xfwm4"
 }
-  
