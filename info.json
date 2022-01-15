@@ -1,9 +1,8 @@
 {
-    "name": "Qogir KDE",
+    "name": "nova-yellow",
     "gtkTheme": "Adwaita",
-    "iconTheme": "Qogir-dark",
-    "shell": "shellName",
-    "desktopEnvironment": "kde",
+    "iconTheme": "Papirus-Colors",
+    "shell": "bash",
+    "desktopEnvironment": "plasma",
     "windowManager": "kwin"
 }
-  
