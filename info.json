@@ -1,7 +1,7 @@
 {
     "name": "Orange",
-    "gtkTheme": "'Nordic-bluish-accent-standard-buttons-v40'",
-    "iconTheme": "'Papirus-Dark'",
+    "gtkTheme": "Nordic-bluish-accent-standard-buttons-v40",
+    "iconTheme": "Papirus-Dark",
     "shell": "fish",
     "desktopEnvironment": "plasma",
     "windowManager": "qtile"
