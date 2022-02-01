@@ -1,9 +1,9 @@
 {
-    "name": "Qogir KDE",
+    "name": "nordic",
     "gtkTheme": "Adwaita",
-    "iconTheme": "Qogir-dark",
-    "shell": "shellName",
-    "desktopEnvironment": "kde",
+    "iconTheme": "Tela-circle-manjaro-dark",
+    "cursorTheme": "Nordic-cursors",
+    "shell": "bash",
+    "desktopEnvironment": "plasma",
     "windowManager": "kwin"
 }
-  
